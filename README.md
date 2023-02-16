@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammmila&label=Profile%20views&color=0e75b6&style=flat" alt="iammmila" /> </p>
 
-- 🌱 I’m currently learning **React.js, TS**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iammmila](https://github.com/iammmila)
 
