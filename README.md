@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iammmila](https://github.com/iammmila)
 
-- 💬 Ask me about **React.js, HTML, CSS, SCSS, JS**
+- 💬 Ask me about **React.js, HTML, CSS, SCSS, JS, TS, MongoDB**
 
 - 📫 How to reach me **ibramila2002@gmail.com**
 
